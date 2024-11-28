@@ -6,25 +6,27 @@ Goal
 The main goal of this project is to:
 
 Optimize a target function (e.g., maximize profit or minimize cost) under given constraints.
-Address real-life LP scenarios such as resource distribution, production scheduling, and cost reduction.
+
 Problems Addressed
-Profit Maximization for a Factory
-Cost Minimization for a Manufacturer
-Production Maximization with Limited Resources
-Revenue Maximization from Sales
-Resource Allocation Between Two Projects
-Production Planning for a Bakery
-Cost Minimization for a Transportation Company
-Revenue Maximization from Multiple Products
-Budget Allocation for an Advertising Campaign
-Meal Planning Optimization for a School Cafeteria
+1. Profit Maximization for a Factory
+2. Cost Minimization for a Manufacturer
+3. Production Maximization with Limited Resources
+4. Revenue Maximization from Sales
+5. Resource Allocation Between Two Projects
+6. Production Planning for a Bakery
+7. Cost Minimization for a Transportation Company
+8. Revenue Maximization from Multiple Products
+9. Budget Allocation for an Advertising Campaign
+10. Meal Planning Optimization for a School Cafeteria
+    
 How to Execute the Code
-Download the repository to your local system.
-Install the required Python libraries via the requirements file or manually.
-Open and execute the Jupyter notebook or Python scripts to solve the LP problems.
+1. Download the repository to your local system.
+2. Install the required Python libraries via the requirements file or manually.
+3. Open and execute the Jupyter notebook or Python scripts to solve the LP problems.
+   
 Requirements
-Python 3.x
-numpy
-scipy
-matplotlib (for graphical solutions)
-Jupyter Notebook
+1.Python 3.x
+2.numpy
+3.scipy
+4.matplotlib (for graphical solutions)
+5.Jupyter Notebook
